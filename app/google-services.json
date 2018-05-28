@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "577685291230",
+    "firebase_url": "https://demo1-e68cf.firebaseio.com",
+    "project_id": "demo1-e68cf",
+    "storage_bucket": "demo1-e68cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577685291230:android:9805b67c73d81b43",
+        "android_client_info": {
+          "package_name": "com.example.vignesh.fire1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577685291230-uaacd5s187eesd15u9afn74jvd944tc0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "577685291230-uaacd5s187eesd15u9afn74jvd944tc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF8_uip8WA4V-R44kuw9XtXUm1ss5q2iI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
